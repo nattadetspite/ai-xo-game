@@ -1,0 +1,11 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[python]": {
+    "editor.defaultFormatter": null
+  },
+  "python.pythonPath": "C:\\Python38\\python.exe",
+  "python.formatting.autopep8Path": "C:/Python38/Scripts/autopep8.exe",
+  "python.formatting.blackArgs": ["--line-length", "120"],
+  "python.formatting.provider": "autopep8",
+  "window.zoomLevel": 1
+}
